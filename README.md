@@ -7,8 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play Asteroid Blaster** 
-Click [Here](https://sangamchoudhary.github.io/AsteroidBlaster/)
+[**Play Asteroid Blaster**](https://sangamchoudhary.github.io/AsteroidBlaster/)
 
 
 
