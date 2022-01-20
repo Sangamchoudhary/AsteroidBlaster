@@ -7,7 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [Here](https://meabhisingh.github.io/canvasGame/)
+**Wanna Play Asteroid Blaster** Click [Here](https://sangamchoudhary.github.io/AsteroidBlaster/)
 
 
 
