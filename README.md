@@ -1,4 +1,4 @@
-﻿# Welcome to CANVAS 2D SHOOTING
+﻿# Welcome to ASTEROID BLASTER - 2D SHOOTING GAME
 
 Hi!  my first html canvas **game**, I have created this using vanilla JavaScript. 
 You can see the **Controls** and **Rules** below
